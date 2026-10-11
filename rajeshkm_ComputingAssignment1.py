@@ -338,7 +338,7 @@ screen.update()
 
 
 
-# TO DO Need to make change for clear exit without crash
+# TO DO Need to make change for clean exit without crash
 
 
 
